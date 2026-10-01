@@ -1,2 +1,3 @@
 Папка для сдачи домашних работ и проекта livecorpus
 
+"C:\Users\rada-\OneDrive\Рабочий стол\elan_livecorpus_template (1).eaf"
